@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body, html {
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-wrapper .custom-nav .custom-navbar .active {
+  color: white;
+}
+
+.nav-wrapper .custom-nav .custom-navbar .custom-nav-item .custom-nav-link {
+  color: rgba(255, 255, 255, 0.7);
+}
+/*# sourceMappingURL=style.css.map */

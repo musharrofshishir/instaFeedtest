@@ -1,0 +1,41 @@
+//* * Font Variable *
+
+//* * Color Variable *
+
+//? * Default CSS *
+*{
+    padding:0;
+    margin:0;
+}
+body,html{
+    height:100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+//! * Navbar *
+.nav-wrapper{
+    .custom-nav{
+        .logo-wrap{
+            .logo{
+                a{
+                    //
+                }
+            }
+        }
+        .custom-navbar{ 
+            .active{
+                color: white;
+            }
+            .custom-nav-item{
+                .custom-nav-link{
+                    color: rgba(255,255,255,.7);
+                }
+            }
+        }
+    }
+}
+
+
+
